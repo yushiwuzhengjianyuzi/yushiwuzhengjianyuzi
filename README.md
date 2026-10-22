@@ -1,35 +1,89 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=860&lines=Java+Backend+%26+Full-Stack+Developer;Spring+Boot+%C2%B7+Vue+3+%C2%B7+Python;Building+Reliable+Systems+with+AI+Integration" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=860&lines=Java+Backend+%26+Full-Stack+Developer;Enterprise+Open-Source+Contributor;Building+Reliable+Systems+with+AI" alt="Typing intro" />
+
+### Hi, I'm 与世无争剑宇子 👋
 
 <p>
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px" alt="wave" />
-  <strong>Hi, I'm 与世无争剑宇子 — building reliable systems across the stack.</strong>
-</p>
-
-<p>
-  <code>📍 China</code>
   <code>☕ Java Backend</code>
-  <code>⚡ Full-Stack · AI-Native</code>
-  <code>🌱 Open-Source Contributor</code>
+  <code>⚡ Full-Stack</code>
+  <code>🤖 AI Integration</code>
+  <code>🌱 Open Source</code>
 </p>
 
 </div>
 
+## About Me
+
+Java backend and full-stack developer focused on reliable APIs, data workflows, and AI-powered products.
+
+- Building with **Java, Spring Boot, Python, Vue 3, and TypeScript**
+- Interested in **LLM applications, agent workflows, and developer tooling**
+- Contributing practical fixes to upstream projects, with an emphasis on clear regression coverage
+
+## ✅ Merged Contributions
+
 <table>
-<tr>
-<td valign="top" width="50%">
+  <tr>
+    <th align="left">Organization</th>
+    <th align="left">Project</th>
+    <th align="left">Contribution</th>
+    <th align="left">Status</th>
+  </tr>
+  <tr>
+    <td><strong>Elastic</strong></td>
+    <td><a href="https://github.com/elastic/eui">eui</a></td>
+    <td><a href="https://github.com/elastic/eui/pull/10223">#10223</a> - Replace <code>PlayFunctionContext</code> with <code>StoryContext</code></td>
+    <td><img src="https://img.shields.io/badge/Merged-2ea44f?style=flat-square" alt="Merged" /></td>
+  </tr>
+</table>
 
-### 👨‍💻 About Me
+## 🏢 Under Review at Major Companies
 
-I'm a Java backend and full-stack developer who enjoys turning ideas into practical products — from reliable APIs and data workflows to polished web interfaces and AI-powered integrations.
+Open pull requests submitted to enterprise-backed projects; not yet merged:
 
-- 🔭 Focusing on **Java / Spring Boot backend engineering, microservices, and full-stack development**
-- 🤖 Building practical experience with **LLM APIs, prompt engineering, agent workflows, and model failover**
-- 🧠 Interested in **data consistency, fault tolerance, developer experience, and AI-native products**
-- 🛠️ Learning in public by contributing fixes and features to upstream open-source projects
+<table>
+  <tr>
+    <th align="left">Organization</th>
+    <th align="left">Project</th>
+    <th align="left">Contribution</th>
+    <th align="left">Status</th>
+  </tr>
+  <tr>
+    <td><strong>Microsoft</strong></td>
+    <td><a href="https://github.com/microsoft/markitdown">markitdown</a></td>
+    <td><a href="https://github.com/microsoft/markitdown/pull/2721">#2721</a> - Avoid treating DOC files as workbooks</td>
+    <td><img src="https://img.shields.io/badge/Under_review-f0ad4e?style=flat-square" alt="Under review" /></td>
+  </tr>
+  <tr>
+    <td><strong>Microsoft</strong></td>
+    <td><a href="https://github.com/microsoft/TypeChat">TypeChat</a></td>
+    <td><a href="https://github.com/microsoft/TypeChat/pull/469">#469</a> - Close validators and run regression tests in CI</td>
+    <td><img src="https://img.shields.io/badge/Under_review-f0ad4e?style=flat-square" alt="Under review" /></td>
+  </tr>
+  <tr>
+    <td><strong>Microsoft</strong></td>
+    <td><a href="https://github.com/microsoft/TypeChat">TypeChat</a></td>
+    <td><a href="https://github.com/microsoft/TypeChat/pull/471">#471</a> - Accept serialized string enum values</td>
+    <td><img src="https://img.shields.io/badge/Under_review-f0ad4e?style=flat-square" alt="Under review" /></td>
+  </tr>
+  <tr>
+    <td><strong>Tencent</strong></td>
+    <td><a href="https://github.com/Tencent/WeKnora">WeKnora</a></td>
+    <td><a href="https://github.com/Tencent/WeKnora/pull/4495">#4495</a> - Expand merged HTML table cells into GFM</td>
+    <td><img src="https://img.shields.io/badge/Under_review-f0ad4e?style=flat-square" alt="Under review" /></td>
+  </tr>
+  <tr>
+    <td><strong>Tencent</strong></td>
+    <td><a href="https://github.com/Tencent/WeKnora">WeKnora</a></td>
+    <td><a href="https://github.com/Tencent/WeKnora/pull/4497">#4497</a> - Add Qdrant scalar quantization and on-disk vectors</td>
+    <td><img src="https://img.shields.io/badge/Under_review-f0ad4e?style=flat-square" alt="Under review" /></td>
+  </tr>
+</table>
 
-### 🧰 Working Stack
+> **Status note:** `Under review` means the pull request is open and awaiting maintainer action. It is not presented as an accepted or merged contribution.
+
+## 🧰 Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
@@ -43,40 +97,15 @@ I'm a Java backend and full-stack developer who enjoys turning ideas into practi
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111" alt="Linux" />
-  <img src="https://img.shields.io/badge/LLM_Integration-412991?style=flat-square&logo=openai&logoColor=white" alt="LLM Integration" />
 </p>
-
-</td>
-<td valign="top" width="48%">
-
-### 🚀 Open Source
-
-> 20+ upstream pull requests submitted across **12 open-source projects**.
-
-Focused on bugs and practical improvements in AI agents, LLM infrastructure, RAG systems, and modern web UI.
-
-- 🦙 **[BerriAI/litellm](https://github.com/BerriAI/litellm/pull/47792)** — router retries and fallbacks
-- 🧩 **[microsoft/TypeChat](https://github.com/microsoft/TypeChat/pull/471)** — serialized enum handling
-- 📄 **[microsoft/markitdown](https://github.com/microsoft/markitdown/pull/2721)** — safer workbook detection
-- 🔎 **[Tencent/WeKnora](https://github.com/Tencent/WeKnora/pull/4497)** — Qdrant quantization and on-disk vectors
-- 💬 **[LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat/pull/17198)** — OpenAI image edit parameters
-- 🌊 **[infiniflow/ragflow](https://github.com/infiniflow/ragflow/pull/21180)** — RewriteQuestion form initialization
-
-Also contributed to **Aider, Cline, Open WebUI, LobeHub, Elastic EUI, and tldr-pages**.
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
-### 🤝 Let's Connect
+### Connect
 
-<p>
-  <a href="https://github.com/yushiwuzhengjianyuzi">
-    <img src="https://img.shields.io/badge/GitHub-yushiwuzhengjianyuzi-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
+<a href="https://github.com/yushiwuzhengjianyuzi">
+  <img src="https://img.shields.io/badge/GitHub-yushiwuzhengjianyuzi-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
 
 <sub>Build. Learn. Contribute. Repeat.</sub>
 
