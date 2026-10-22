@@ -70,17 +70,6 @@ Also contributed to **Aider, Cline, Open WebUI, LobeHub, Elastic EUI, and tldr-p
 
 <div align="center">
 
-### 📊 GitHub at a Glance
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yushiwuzhengjianyuzi&show_icons=true&rank_icon=github&hide_border=true&theme=transparent&locale=en" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yushiwuzhengjianyuzi&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=yushiwuzhengjianyuzi&hide_border=true&theme=transparent" alt="GitHub streak" />
-</p>
-
 ### 🤝 Let's Connect
 
 <p>
